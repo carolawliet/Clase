@@ -1,0 +1,33 @@
+body
+{
+	background-color: pink;
+	font-size: 20px;
+	margin: 0px;
+}
+header
+{
+	background-color: white;
+	margin: 30px 15px;
+	padding: 5px;
+}
+	header h1
+	{
+		color: pink;
+		display: inline-block;
+		font-size: 3em;
+		margin: 0px;
+		margin-left: 20px;
+	}
+#logo
+{
+	display: inline-block;
+	width: 120px;
+}
+#search-box
+{
+	background-color: pink;
+	display: inline-block;
+	float: right;
+	margin: 12px;
+	width: 230px;
+}
